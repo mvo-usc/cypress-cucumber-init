@@ -1,3 +1,6 @@
 {
-  "video": false
+  "video": false,
+  "baseUrl": "https://urbansportsclub.com",
+  "userAgent": "PostmanRuntime/7.28.0",
+  "testFiles": "**/*.feature"
 }
