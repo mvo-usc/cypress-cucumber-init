@@ -1,0 +1,9 @@
+{
+  "name": "cypress-cucumber-init",
+  "version": "1.0.0",
+  "description": "Example running Cypress tests with cucumber",
+  "scripts": {
+    "build": "docker-compose build",
+    "up": "docker-compose up --abort-on-container-exit --exit-code-from e2e"
+  }
+}
